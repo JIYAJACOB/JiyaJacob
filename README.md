@@ -1,7 +1,7 @@
 ![logo](https://github.com/JIYAJACOB/JiyaJacob/blob/main/JIYA%20JACOB%20(1).png)
 <h1 align="center">Hi 👋, I'm Jiya Jacob</h1>
 <h3 align="center">A passionate data scientist whose language is data</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-IN/view/programming-gif-25868426">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/en-IN/view/programming-gif-25868426](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fprogramming-gif-25868426&psig=AOvVaw1sWiFgkZVh-lX1aTJU0DFN&ust=1679214869098000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKivr4CJ5f0CFQAAAAAdAAAAABAE)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiyajacob&label=Profile%20views&color=0e75b6&style=flat" alt="jiyajacob" /> </p>
 
