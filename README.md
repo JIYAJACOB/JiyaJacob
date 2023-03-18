@@ -1,3 +1,4 @@
+![logo](https://github.com/JIYAJACOB/JiyaJacob/blob/main/JIYA%20JACOB%20(1).png)
 <h1 align="center">Hi 👋, I'm Jiya Jacob</h1>
 <h3 align="center">A passionate data scientist whose language is data</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/en-IN/view/programming-gif-25868426">
